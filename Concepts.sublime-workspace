@@ -1,0 +1,1690 @@
+	{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dias",
+				"diasHabilesAmpliacion"
+			],
+			[
+				"caso",
+				"casoAmp"
+			],
+			[
+				"Fecha_res",
+				"Fecha_respuesta_programada__c 	DateTime"
+			],
+			[
+				"Fec",
+				"Fecha_cumplimiento_70__c 	DateTime"
+			],
+			[
+				"Fecha",
+				"Fecha_ampliacion_programada__c 	DateTime"
+			],
+			[
+				"Am",
+				"Ampliación"
+			],
+			[
+				"mapa",
+				"mapaCasos"
+			],
+			[
+				"Ampliaci",
+				"Ampliacion__c"
+			],
+			[
+				"amp",
+				"amp1"
+			],
+			[
+				"is",
+				"isEmpty()"
+			],
+			[
+				"cas",
+				"casoClon"
+			],
+			[
+				"Bande",
+				"banderas"
+			],
+			[
+				"Cas",
+				"Consecutivo_caso__c 	Text"
+			],
+			[
+				"lista",
+				"listaMilestones"
+			],
+			[
+				"Id",
+				"ID"
+			],
+			[
+				"carge",
+				"cargarHorasHabiles"
+			],
+			[
+				"cargar",
+				"cargarHorasHabiles"
+			],
+			[
+				"fecha",
+				"fechaInicio"
+			],
+			[
+				"Sta",
+				"StartDate"
+			],
+			[
+				"Case",
+				"CaseMilestone"
+			],
+			[
+				"act",
+				"actualizarInicioEventosClave"
+			],
+			[
+				"acti",
+				"actualizarEventosClave1"
+			],
+			[
+				"new",
+				"newCase"
+			],
+			[
+				"old",
+				"oldCase"
+			],
+			[
+				"IdCa",
+				"idCaso"
+			],
+			[
+				"casosA",
+				"casosAux"
+			],
+			[
+				"ol",
+				"oldMap"
+			],
+			[
+				"tri",
+				"Trigger"
+			],
+			[
+				"Own",
+				"OwnerID"
+			],
+			[
+				"li",
+				"list"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"Jque",
+				"JqueryApp"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"2",
+				"2012-12-21"
+			],
+			[
+				"fe",
+				"fechaFactura"
+			],
+			[
+				"d",
+				"dml"
+			],
+			[
+				"placa",
+				"placar"
+			],
+			[
+				"Blo",
+				"BloqueoPosicion_trg"
+			],
+			[
+				"Bl",
+				"BloqueoAttachment_trg"
+			],
+			[
+				"blo",
+				"BloqueoExcepciones_trg"
+			],
+			[
+				"Proces",
+				"Proceso__r"
+			],
+			[
+				"N",
+				"Numero_proceso__r"
+			],
+			[
+				"Persona",
+				"Persona_juridica__r"
+			],
+			[
+				"Person",
+				"Persona_natural__r"
+			],
+			[
+				"Pers",
+				"Persona_natural__r"
+			],
+			[
+				"map",
+				"mapaAjustes"
+			],
+			[
+				"sa",
+				"saveSA"
+			],
+			[
+				"opo",
+				"oportunidad_1"
+			],
+			[
+				"Bander",
+				"banderaCamposCaso_before"
+			],
+			[
+				"Sol",
+				"Solicitud_de_ajuste__c"
+			],
+			[
+				"error",
+				"errorUpdate"
+			],
+			[
+				"mapaIte",
+				"mapaItemId"
+			],
+			[
+				"mapaId",
+				"mapaIdItem"
+			],
+			[
+				"mapaI",
+				"mapaIdItem"
+			],
+			[
+				"add",
+				"addTextNode"
+			],
+			[
+				"codi",
+				"codigoR"
+			],
+			[
+				"xml",
+				"xmlResponseRoot"
+			],
+			[
+				"err",
+				"errorUpdate"
+			],
+			[
+				"er",
+				"errorUpdate"
+			],
+			[
+				"Op",
+				"Opportunity"
+			],
+			[
+				"Esta",
+				"Estado_de_pedido__c"
+			],
+			[
+				"lis",
+				"listaOportunidades"
+			],
+			[
+				"mapaItem",
+				"mapaItemOportunidades"
+			],
+			[
+				"Opp",
+				"Opportunity"
+			],
+			[
+				"Opor",
+				"Oportunidades__r"
+			],
+			[
+				"Desc",
+				"Descripcion__c"
+			],
+			[
+				"desc",
+				"Descripcion__c"
+			],
+			[
+				"es",
+				"Estado__c"
+			],
+			[
+				"keyse",
+				"keyset"
+			],
+			[
+				"solici",
+				"soliciTemp"
+			],
+			[
+				"Xm",
+				"XmlNode"
+			],
+			[
+				"Co",
+				"Codigo__c"
+			],
+			[
+				"xmlRe",
+				"xmlResponseRoot"
+			],
+			[
+				"de",
+				"debug"
+			],
+			[
+				"set",
+				"setQuery"
+			],
+			[
+				"Se",
+				"Set"
+			],
+			[
+				"key",
+				"keyAprobacion"
+			],
+			[
+				"mapaA",
+				"mapaAjustes"
+			],
+			[
+				"mapaAp",
+				"mapaAprobacion"
+			],
+			[
+				"lla",
+				"llaveAjuste"
+			],
+			[
+				"Ma",
+				"Map"
+			],
+			[
+				"Solici",
+				"Solicitud_ajuste__c"
+			],
+			[
+				"obj",
+				"objAjuste"
+			],
+			[
+				"tag",
+				"tagsAprobacion"
+			],
+			[
+				"mess",
+				"getMessage"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"Es",
+				"Estado__c"
+			],
+			[
+				"num",
+				"numSolicitud"
+			],
+			[
+				"r",
+				"Rechazado"
+			],
+			[
+				"S-",
+				"SA-254"
+			],
+			[
+				"Pla",
+				"Placa_del_vehiculo__r"
+			],
+			[
+				"Placa",
+				"Placa_del_remolque__r"
+			],
+			[
+				"Con",
+				"Conductor__r"
+			],
+			[
+				"Mo",
+				"Motivo_de_rechazo__r"
+			],
+			[
+				"Pro",
+				"Productos_Ecopetrol__c"
+			],
+			[
+				"V",
+				"Vehiculo__c"
+			],
+			[
+				"casoHijo",
+				"casoHijoPQR1"
+			],
+			[
+				"C",
+				"Case"
+			],
+			[
+				"sta",
+				"startTest"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"git:",
+				"Github: Open File"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git ",
+				"Git: Init"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"github",
+				"Github: Open File"
+			],
+			[
+				"togg",
+				"Toggle Comment"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"blo",
+				"Toggle Block Comment"
+			],
+			[
+				"comm",
+				"Toggle Block Comment"
+			],
+			[
+				"inre",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Auto indent"
+			],
+			[
+				"indent",
+				"Auto indent"
+			],
+			[
+				"selecon",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"seleccon",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"indent xml",
+				"Indent XML"
+			],
+			[
+				"x",
+				"Indent XML"
+			],
+			[
+				"ind",
+				"Indent XML"
+			],
+			[
+				"in",
+				"Indent XML"
+			],
+			[
+				"slcon",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"unf",
+				"Code Folding: Unfold All"
+			],
+			[
+				"content",
+				"BracketHighlighter: Fold Bracket Content"
+			],
+			[
+				"",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"csv",
+				"CSV: Use First Row As Header"
+			],
+			[
+				"fold",
+				"BracketHighlighter: Fold Bracket Content"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"filedi",
+				"FileDiffs: Menu"
+			],
+			[
+				"enco",
+				"Hasher: Base64 Encode"
+			],
+			[
+				"de",
+				"Hasher: Base64 Decode"
+			],
+			[
+				"dec",
+				"Hasher: Base64 Decode"
+			],
+			[
+				"deco",
+				"Hasher: Base64 Decode"
+			],
+			[
+				"base",
+				"StringEncode: Base64 Encode"
+			],
+			[
+				"tag:",
+				"Tag: Lint Selection or Document"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"SYNTA JA",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"select con",
+				"Bracket Highlighter: Select Bracket Content"
+			],
+			[
+				"clos",
+				"File: Close All"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"jquery",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"show",
+				"JSLint: Show JSLint Result"
+			],
+			[
+				"lin",
+				"JSLint: Run JSLint"
+			],
+			[
+				"sublimelin",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"lint",
+				"JSLint: Run JSLint"
+			],
+			[
+				"Package Control: up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pacla",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"IND",
+				"Indent XML"
+			],
+			[
+				"enc",
+				"StringEncode: Base64 Encode"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convert to",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"encode",
+				"Hasher: Base64 Encode"
+			],
+			[
+				"end",
+				"Hasher: Entity Decode"
+			],
+			[
+				"sy",
+				"Set Syntax: XML"
+			],
+			[
+				"en",
+				"StringEncode: Base64 Encode"
+			],
+			[
+				"64",
+				"Hasher: Base64 Encode"
+			],
+			[
+				"sxml",
+				"Set Syntax: XML"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"synx",
+				"Set Syntax: XML"
+			],
+			[
+				"syxml",
+				"Set Syntax: XML"
+			],
+			[
+				"xm",
+				"Indent XML"
+			],
+			[
+				"fil",
+				"FileDiffs: Menu"
+			],
+			[
+				"jav",
+				"Set Syntax: Java"
+			],
+			[
+				"clo",
+				"File: Close All"
+			],
+			[
+				"all",
+				"File: Close All"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"select",
+				"Bracket Highlighter: Select Tag"
+			],
+			[
+				":save as",
+				"Project: Save As"
+			],
+			[
+				"bas",
+				"StringEncode: Base64 Encode"
+			],
+			[
+				"decode",
+				"StringEncode: Base64 Decode"
+			],
+			[
+				"i",
+				"Indent XML"
+			],
+			[
+				"d",
+				"StringEncode: Base64 Decode"
+			],
+			[
+				"e",
+				"StringEncode: Base64 Encode"
+			],
+			[
+				"DE",
+				"Hasher: Base64 Decode"
+			],
+			[
+				"EN",
+				"StringEncode: Base64 Encode"
+			],
+			[
+				"D",
+				"StringEncode: Base64 Decode"
+			],
+			[
+				"ba",
+				"StringEncode: Base64 Encode"
+			],
+			[
+				"di",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tag",
+				"Bracket Highlighter: Select Tag"
+			],
+			[
+				"match",
+				"Bracket Highlighter: Match Brackets"
+			],
+			[
+				"matc",
+				"Bracket Highlighter: Match Brackets"
+			],
+			[
+				"de ",
+				"StringEncode: Base64 Decode"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"mar",
+				"Bracket Highlighter: Match Brackets"
+			],
+			[
+				"selec",
+				"Bracketeer: Select Inside Braces"
+			],
+			[
+				"selc",
+				"Bracket Highlighter: Select Bracket Content"
+			],
+			[
+				"sele",
+				"Bracketeer: Select Inside Braces"
+			],
+			[
+				"select in",
+				"Bracketeer: Select Inside Braces"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"brack",
+				"Bracket Highlighter: Select Bracket Content"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"b",
+				"Toggle Block Comment"
+			],
+			[
+				"bl",
+				"Toggle Block Comment"
+			],
+			[
+				"blk",
+				"Toggle Block Comment"
+			],
+			[
+				"togl",
+				"Toggle Block Comment"
+			],
+			[
+				"comment",
+				"Toggle Block Comment"
+			],
+			[
+				"comme",
+				"Toggle Block Comment"
+			],
+			[
+				"hi",
+				"WordHighlight: Toggle Enabled"
+			],
+			[
+				"eclips",
+				"Eclipse: Format Java"
+			],
+			[
+				"packac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 450.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": true,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Avanxo/Documents/GitHub/concepts/TEST.txt",
+		"/C/Users/Avanxo/Documents/GitHub/concepts/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130403/src/triggers/ActualizacionUltimaFechaAmpliacion_tgr.trigger",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130403/src/classes/CalculoFechaAmpliacionProgramada_cls.cls",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130403/src/classes/CalculoFechaAmpliacionProgramada_tst.cls",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130403/src/classes/CrearTipificacion_ctr.cls",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130403/src/classes/ValidaLupasObjetos_ctr.cls",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130403/src/pages/ValidaLupasObjetos_pag.page",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130403/src/classes/GeneradorAsignacion_cls.cls",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130403/src/classes/Banderas.cls",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130403/src/pages/CapturarPedido.page",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130403/src/pages/AjustesMasivos_pag.page",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130403/src/pages/CapturarPedido.page-meta.xml",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130403/src/pages/VerCaso_pag.page",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130327/src/classes/CasosAuxiliar_cls.cls",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130327/src/classes/ActualizarEventosClave_tst.cls",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130327/src/classes/ActualizarInventarios_cls.cls",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130327/src/classes/Maestras_ctr.cls",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130327/src/classes/ActualizarEventosClave_cls.cls",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130327/src/triggers/CamposCasos_tgr.trigger",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130327/src/classes/CrearTipificacion_ctr.cls",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130327/src/classes/CrearObjetos_tst.cls",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130327/src/classes/NoModificarUltimaActuacion_cls.cls",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130327/src/classes/CorreoElectronicoUsuarioVacaciones_cls.cls",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130327/src/classes/ActualizarConsecutivos_cls.cls",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130327/src/classes/OperacionesConsecutivo.cls",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130327/src/classes/CamposCasos_tst.cls",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130327/src/classes/ValidarAccionesPlanMejora_cls.cls",
+		"/C/Users/Avanxo/Desktop/error032713040806747.csv",
+		"/C/Users/Avanxo/Desktop/Control Tipo Registros.csv",
+		"/C/Users/Avanxo/Desktop/Conf Consecutivo.csv",
+		"/C/Users/Avanxo/ST2Workspace/SER-D-20130327/src/classes/ActualizarConsecutivos_tst.cls",
+		"/C/Users/Avanxo/ST2Workspace/SER-20130327/src/classes/CrearTipificacion_ctr.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18 Produccion/src/classes/GeneradorAsignacion_cls.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18 Produccion/src/classes/CrearTipificacion_ctr.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18 Produccion/src/classes/ActualizarEventosClave_cls.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18 Produccion/src/classes/CalculoFechaAmpliacionProgramada_tst.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18 Produccion/src/triggers/CamposCasos_tgr.trigger",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18 Produccion/src/classes/CasosAuxiliar_cls.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18 Produccion/src/pages/CrearProcesoJuridico_pag.page",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18 Produccion/src/classes/CrearProcesoJuridico_ctr.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18 Produccion/src/classes/ActualizarConsecutivos_cls.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18 Produccion/src/classes/CasosAuxiliar_tst.cls",
+		"/C/Users/Avanxo/Downloads/124645.user.js",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18 Produccion/src/classes/ObtencionEstadosCuenta_ctr.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18 Produccion/src/classes/ObtencionCupoCredito_v2_ctr.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18 Produccion/src/classes/EstadoCuentaExcel_Ctr.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18 Produccion/src/classes/CupoCredito_Ctr.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18/src/classes/CasosAuxiliar_cls.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18/src/triggers/CamposCasos_tgr.trigger",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18/src/classes/ObtencionEstadosCuenta_ctr.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18/src/classes/CamposCasos_cls.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18/src/triggers/RestringirBorradoContentDocument_trg.trigger",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18/src/classes/BloqueoCuentas_cls.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18/src/triggers/RestringirBorrado_trg.trigger",
+		"/C/Users/Avanxo/Documents/SER/WebService-soapui-project.xml",
+		"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18/ECP 2013-03-18.sublime-project",
+		"/C/Users/Avanxo/ST2Workspace/ECPF20130308/src/classes/CasosAuxiliar_cls.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECPF20130308/src/triggers/ValidacionRegistrosExpediente_tgr.trigger",
+		"/C/Users/Avanxo/ST2Workspace/ECPF20130308/src/triggers/CamposCasos_tgr.trigger",
+		"/C/Users/Avanxo/ST2Workspace/ECPF20130308/src/triggers/AsignaUsuarioBackup_tgr.trigger",
+		"/C/Users/Avanxo/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Avanxo/ST2Workspace/ECPF20130308/src/classes/CasosAuxiliar_tst.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECPF20130308/src/classes/ConversorObjetoSAPaXML_cls.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECPF20130308/src/classes/ConversorObjetoSAPaXML_cls.cls-meta.xml",
+		"/C/Users/Avanxo/ST2Workspace/ECPF20130308/src/classes/AjustesMasivos_ctr.cls",
+		"/C/Users/Avanxo/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Avanxo/ST2Workspace/ECPF20130308/src/pages/AjustesMasivos_pag.page",
+		"/C/Users/Avanxo/AppData/Roaming/Sublime Text 2/Packages/JsFormat/Default (Windows).sublime-keymap",
+		"/C/Users/Avanxo/AppData/Roaming/Sublime Text 2/Packages/Tag/Tag Package.sublime-settings",
+		"/C/Users/Avanxo/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+		"/C/Users/Avanxo/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Avanxo/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/C/Users/Avanxo/Desktop/test.js",
+		"/C/Users/Avanxo/ST2Workspace/ECPF20130308/src/pages/JqueryApp.page",
+		"/C/Users/Avanxo/ST2Workspace/ECPF20130308/src/classes/JqueryApp.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECPF20130308/src/classes/ObtencionEstadosCuenta_ctr.cls",
+		"/C/Users/Avanxo/AppData/Roaming/Sublime Text 2/Packages/User/sublime-jslint.sublime-settings",
+		"/C/Users/Avanxo/AppData/Roaming/Sublime Text 2/Packages/sublime-jslint/sublime-jslint.sublime-settings",
+		"/C/Users/Avanxo/ST2Workspace/ECPF20130308/src/classes/CapturaPedidoCtr.cls",
+		"/C/Users/Avanxo/ST2Workspace/ECPF20130308/src/pages/CapturarPedido.page",
+		"/C/Users/Avanxo/AppData/Roaming/Sublime Text 2/Packages/User/mavensmate.sublime-settings",
+		"/C/Users/Avanxo/Downloads/FixedHeader",
+		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Full 2013-03-04/src/classes/ActualizarContactoCandidato_cls.cls-meta.xml",
+		"/C/Users/Avanxo/Documents/Directorio de intercambio Bluetooth/BetterBatteryStats-2013-02-27_105439510.txt",
+		"/C/Users/Avanxo Colombia/workspace/Test/src/pages/cloudtunes_cache.page",
+		"/C/Users/Avanxo Colombia/workspace/Test/src/pages/cloudtunes.page",
+		"/C/Users/Avanxo Colombia/workspace/Test/src/staticresources/cloudtunes.resource",
+		"/C/Users/Avanxo/Desktop/Test.html",
+		"/C/Users/Avanxo Colombia/workspace/Test/src/pages/testdev1.page",
+		"/C/Users/Avanxo Colombia/workspace/Test/src/classes/testdev1_ctr.cls",
+		"/C/Users/Avanxo/Google Drive/Tweak/GitHub/Tweak/README",
+		"/C/Users/Avanxo/Downloads/apex (25).log",
+		"/C/Users/Avanxo/Downloads/apex (22).log",
+		"/C/Users/Avanxo/Downloads/apex (21).log",
+		"/C/Users/Avanxo/Downloads/apex (23).log",
+		"/C/Users/Avanxo/Downloads/apex (24).log",
+		"/C/Users/Avanxo/Downloads/apex (20).log",
+		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Full 2013-01-14/src/classes/GuardadoDePedidoSFDCSap2_cls.cls",
+		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Full 2013-01-14/src/pages/CapturarPedido.page",
+		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Produccion 2013-01-14/src/pages/CapturarPedido.page",
+		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Full 2013-01-14/src/classes/RegistrarRechazoPedido_cls.cls",
+		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Produccion 2013-01-14/src/classes/RegistrarRechazoPedido_cls.cls",
+		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Produccion 2013-01-14/src/classes/FacturaPDF_ctr.cls",
+		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Full 2013-01-14/src/classes/FacturaPDF_ctr.cls",
+		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Full 2013-01-14/src/classes/ObtencionFacturaPDF_cls.cls",
+		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Produccion 2013-01-14/src/classes/ObtencionFacturaPDF_cls.cls",
+		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Produccion 2013-01-14/src/classes/ObtencionCupoCredito_v2_ctr.cls",
+		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Full 2013-01-14/src/classes/ObtencionCupoCredito_v2_ctr.cls",
+		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Produccion 2013-01-14/src/classes/CupoCredito_Ctr.cls",
+		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Full 2013-01-14/src/classes/CupoCredito_Ctr.cls",
+		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Full 2013-01-14/src/classes/AjustesMasivos_ctr.cls",
+		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Produccion 2013-01-14/src/classes/AjustesMasivos_ctr.cls",
+		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Produccion 2013-01-14/src/classes/GuardadoDePedidoSFDCSap2_cls.cls",
+		"/C/Users/Avanxo/Downloads/apex (16).log",
+		"/C/Users/Avanxo/Google Drive/Avanxo/Listado Desarrollos para Documentación",
+		"/C/Users/Avanxo/Downloads/bulkQuery_result_750S0000000I3tKIAS_751S0000000Iir0IAC_752S00000008dTc.csv",
+		"/C/Users/Avanxo/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Avanxo/Downloads/apex (15).log",
+		"/C/Users/Avanxo/Downloads/apex (14).log",
+		"/C/Users/Avanxo/Downloads/apex (11).log",
+		"/C/Users/Avanxo/Downloads/apex (12).log",
+		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Full 2012-12-12/src/classes/IndicadoresOportunidadEficacia_ctr.cls",
+		"/C/Users/Avanxo/Downloads/apex (13).log",
+		"/C/Users/Avanxo/Desktop/Trama.xml",
+		"/C/Users/Avanxo/Downloads/apex (1).log",
+		"/C/Users/Avanxo/Downloads/apex (2).log",
+		"/C/Users/Avanxo/Downloads/apex (3).log"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*",
+			"*cls",
+			"*.cls",
+			"cls",
+			"*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ProcesaBloqueos",
+			"cumplimiento",
+			"ConteoDiasHabiles",
+			".diff",
+			"startTest",
+			"ValidaLupasObjetos_pag",
+			"ValidaLupasObjetos_ctr",
+			"guardar()",
+			"Fecha_ampliacion_programada__c",
+			"PerfilExcepcion",
+			"ActualizarMilestones",
+			"IsCompleted",
+			"isCompleted",
+			"StartDate",
+			"listaFestivos",
+			"CargarListaFestivos",
+			"ActualizarEventosClave_cls",
+			"actualizarEventosClave1",
+			"CompletionDate",
+			"Fecha_de_Ingreso_oculto__c",
+			"oculto",
+			"PQR_ValidarAccionesPlanMejora",
+			"Estado_actual__c",
+			"Plan_Mejora",
+			"Estado_actual",
+			"Continuar():catch:",
+			"attachment",
+			"construirListadoEstados",
+			"PerfilEx",
+			"Excepciones_Tipificacion__c",
+			"Excepcion",
+			"Perfil",
+			"Excepcion",
+			"PerfilEx",
+			"crearprocesojuridico",
+			"JURErrorPrefijo",
+			"Area_control_credito__c",
+			"valor_garantia__c",
+			"desencadenadorCambioEstadoAceptadoNivel1",
+			"login",
+			"bloqueocuentas",
+			"trigger",
+			"Content",
+			"on Case",
+			"decimal",
+			"slow",
+			"portal",
+			"PRM",
+			"\\n\\n",
+			"Area_control_credito__c",
+			"campos",
+			";}\n",
+			"jefe_propietario",
+			"\\\\",
+			"grimal2",
+			"avanxo",
+			"jgrimaldos",
+			",",
+			"(Verdict:)(.*)",
+			"(\\[B\\])(.*)",
+			"strQuery\\+='",
+			"\\t",
+			"\\t*",
+			"';\\n",
+			"\\n",
+			"(\\d.*\\t)",
+			"Cine Colombia",
+			"\\.",
+			".",
+			"04",
+			"\\n",
+			"\\t",
+			"\\n",
+			"\\t",
+			"\\n",
+			"\\t",
+			"lstin",
+			"exception",
+			"strXM",
+			"/",
+			"\\)",
+			"\\(",
+			"%",
+			"\\.",
+			"d1",
+			"d1::",
+			"^ ",
+			",",
+			":",
+			">\\nGua",
+			">\"",
+			"^\"",
+			"ignore",
+			"><",
+			"<?xml version=\"\"1.0\"\" encoding=\"\"utf-8\"\"?><pedido><cabecera><item>1</item><codigoR>00</codigoR><mensajeR>Transacción exitosa</mensajeR><numPedido>0000674793</numPedido><material><item>10</item><codigoR>00</codigoR><mensajeR>Transacción exitosa</mensajeR><disponible>true</disponible><vlrAntesImp>0.0</vlrAntesImp><vlrTotal>0.0</vlrTotal><vlrTotalPesos>0.0</vlrTotalPesos><moneda>COP</moneda><cantDisp>0.0</cantDisp></material><material><item>20</item><codigoR>00</codigoR><mensajeR>Transacción exitosa</mensajeR><disponible>true</disponible><vlrAntesImp>0.0</vlrAntesImp><vlrTotal>0.0</vlrTotal><vlrTotalPesos>0.0</vlrTotalPesos><moneda>COP</moneda><cantDisp>0.0</cantDisp></material></cabecera></pedido>",
+			"(<[^/])",
+			"<[^/]",
+			"(<[^/])",
+			"<?.*",
+			"\",\"",
+			".*",
+			"<cantDisp>[^0].*",
+			"disponible>false",
+			".*pedido especial.*",
+			".*",
+			"numSolicitud",
+			"\"GuardadoPedidoSFDCSAP2\",\"2012-12-19T15:33:42.000Z\",\"a0BS0000007xt68MAA\",\"Log - 004268\",\"<?xml version=\"\"1.0\"\" encoding=\"\"utf-8\"\"?><pedido><cabecera><item>1</item><codigoR>00</codigoR><mensajeR>Transacción exitosa</mensajeR><numPedido>0000674761</numPedido><material><item>20</item><codigoR>00</codigoR><mensajeR>Transacción exitosa</mensajeR><disponible>true</disponible><vlrAntesImp>0.0</vlrAntesImp><vlrTotal>0.0</vlrTotal><vlrTotalPesos>0.0</vlrTotalPesos><moneda>COP</moneda><cantDisp>0.0</cantDisp></material></cabecera></pedido>\",\"<?xml version=\"\"1.0\"\" encoding=\"\"UTF-8\"\"?><pedido><cabecera><item>1</item><tiporegistro>Pedido especial</tiporegistro><nitcliente>804017782</nitcliente><clasePedido>ZES1</clasePedido><organizacionVentas>ECNA</organizacionVentas><actividadEconomica>10</actividadEconomica><sector>02</sector><condicionPago>Z007</condicionPago><fechaPrecio>2012-12-14</fechaPrecio><utilizacion>Z01</utilizacion><fechaRetiroProd>2012-12-20</fechaRetiroProd><medioTransporte>04</medioTransporte><destinoMercancia>5001</destinoMercancia><sicom /><destinatarioMerca>9000009514</destinatarioMerca><oficinaVentas>OFBB</oficinaVentas><motivoPedido>004</motivoPedido><cedulaConductor /><placaVehiculo /><placaRemolque /><creadoPor /><fechaInicio>2012-12-14</fechaInicio><fechaFin>2012-12-31</fechaFin><numeroContrato>0020024360</numeroContrato><fechavalor /><ruta /><puestoexpedicion /><numSolicitud /><descripcion /><fechafactura /><material><item>20</item><codigo>30000000190</codigo><um>GLS</um><cantidad>0.0</cantidad></material></cabecera></pedido>\"",
+			"_.*",
+			"tiporegistro",
+			"Especial",
+			"^",
+			"_.*",
+			"([a-z])([A-Z])",
+			".*tst.*\\n",
+			"^.*tst.*$",
+			"\\ \\(.*\\)",
+			"\\n",
+			"\\t",
+			"^",
+			"\\n",
+			"\\t",
+			"^",
+			"\\n",
+			"^",
+			"$",
+			"\\n",
+			"\\t+",
+			"\\t."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\n",
+			"/",
+			",\\n",
+			"\\1\\[B\\]\\2\\[/B\\]",
+			"\\[U\\]\\1\\[/U\\]\\[B\\]\\2\\[/B\\]",
+			"\\1\\2\\[/B\\]",
+			" ",
+			"',\\n'",
+			"','",
+			"",
+			"CC",
+			":",
+			" ",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\n",
+			">\\n\\nGua",
+			">",
+			"",
+			">\\n<",
+			">/n<",
+			"\\n$1",
+			"\\n<",
+			"\\b$1",
+			"\\n",
+			"[ ]",
+			"",
+			"$1 $2",
+			"",
+			"'+\\n",
+			"",
+			"'",
+			"'+\\n",
+			"",
+			"'",
+			"'+\\n",
+			"//",
+			"^//",
+			"//",
+			"'+\\n",
+			"'",
+			"'+\\n",
+			"",
+			"mapaParametros.put\\($1,$1\\)",
+			"mapaParametros.put($1,$1)",
+			"mapaParametros.put\\($1,$1\\)",
+			">",
+			"<",
+			", \\n",
+			"'$1",
+			"'(%1)",
+			">'+",
+			">'+\\n",
+			"\\n'<",
+			">",
+			"",
+			">'+\\n'<",
+			"",
+			">'+\\n",
+			"$1'<",
+			"%1'<",
+			">",
+			"<",
+			">'+\\n",
+			">",
+			"'<",
+			">'+\\n",
+			">",
+			">'+\\n",
+			"'<",
+			">",
+			"'+\\n",
+			">'",
+			"",
+			">\\n",
+			">\\b",
+			">\\l",
+			"><",
+			"",
+			" ",
+			"fd",
+			"$",
+			"Original",
+			"",
+			";",
+			"insert",
+			"\\1r.Name,\\1r.Estado__c\\n",
+			"Estado__c",
+			"estado__c",
+			"\\1.Name, \\1.Estado_c,",
+			"\\1.Name, \\1.Estado_",
+			"\\1.Name, \\1.Estado__c",
+			"\\1.Name, \\1.Estado__c\\b",
+			"'\\1'+",
+			"'%1'+",
+			"",
+			"\\n",
+			"",
+			"\\n",
+			"",
+			"\\n",
+			"",
+			",\\n",
+			"\\1.Name, \\1.Estado__c,\\n",
+			"\\1, \\1.Estado__c,\\n",
+			"\\1, \\1__c,\\n",
+			"\\1",
+			"\\1, \\1_Estado__c,",
+			"\\1",
+			"__r",
+			"",
+			"$1,$1.Estado\\n",
+			"$1,$1.Estado",
+			"$0,$0.Estado",
+			"$0,$0.Estado\\n",
+			"$0,$0.Estado",
+			"$0",
+			"$1",
+			"\\0",
+			"\\1",
+			"$0,$0",
+			"$0",
+			"$1",
+			"%1",
+			",\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 96.0
+	},
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.git":
+	{
+		"height": 96.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 77.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"asignivel",
+				"src/pages/AsignarNivel3_pag.page"
+			],
+			[
+				"bloqueo",
+				"src/classes/BloqueoCasos_cls.cls"
+			],
+			[
+				"casos",
+				"src/classes/CasosAuxiliar_cls.cls"
+			],
+			[
+				"validacioncampoampliaciones_cls",
+				"src/classes/ValidacionCampoAmpliaciones_cls.cls"
+			],
+			[
+				"validacioncampoampliaciones_trg",
+				"src/triggers/ValidacionCampoAmpliaciones_trg.trigger"
+			],
+			[
+				"ultimafecha",
+				"src/triggers/ActualizacionUltimaFechaAmpliacion_tgr.trigger"
+			],
+			[
+				"calcu",
+				"src/classes/CalculoFechaAmpliacionProgramada_tst.cls"
+			],
+			[
+				"validal",
+				"src/classes/ValidaLupasObjetos_ctr.cls"
+			],
+			[
+				"validalupa",
+				"src/classes/ValidaLupasObjetos_ctr.cls"
+			],
+			[
+				"ampliacion",
+				"src/classes/CalculoFechaAmpliacionProgramada_cls.cls"
+			],
+			[
+				"creartip",
+				"src/classes/CrearTipificacion_ctr.cls"
+			],
+			[
+				"generad",
+				"src/classes/GeneradorAsignacion_cls.cls"
+			],
+			[
+				"bander",
+				"src/classes/Banderas.cls"
+			],
+			[
+				"capturr",
+				"src/pages/CapturarPedido.page"
+			],
+			[
+				"pedidopag",
+				"src/pages/CapturarPedido.page-meta.xml"
+			],
+			[
+				"pag",
+				"src/pages/AjustesMasivos_pag.page"
+			],
+			[
+				"verca",
+				"src/pages/VerCaso_pag.page"
+			],
+			[
+				"bande",
+				"src/classes/Banderas.cls"
+			],
+			[
+				"evento",
+				"src/classes/ActualizarEventosClave_cls.cls"
+			],
+			[
+				"camposca",
+				"src/triggers/CamposCasos_tgr.trigger"
+			],
+			[
+				"actuali",
+				"src/classes/ActualizarInventarios_cls.cls"
+			],
+			[
+				"maestras",
+				"src/classes/Maestras_ctr.cls"
+			],
+			[
+				"actuaeven",
+				"src/classes/ActualizarEventosClave_cls.cls"
+			],
+			[
+				"actualizareventosclave_cls",
+				"src/classes/ActualizarEventosClave_cls.cls"
+			],
+			[
+				"usuariova",
+				"src/classes/CorreoElectronicoUsuarioVacaciones_cls.cls"
+			],
+			[
+				"actuacon",
+				"src/classes/ActualizarConsecutivos_cls.cls"
+			],
+			[
+				"opera",
+				"src/classes/OperacionesConsecutivo.cls"
+			],
+			[
+				"operac",
+				"src/classes/OperacionesConsecutivo.cls"
+			],
+			[
+				"campostr",
+				"src/triggers/CamposCasos_tgr.trigger"
+			],
+			[
+				"crearobje",
+				"src/classes/CrearObjetos_tst.cls"
+			],
+			[
+				"campos",
+				"src/classes/CamposCasos_tst.cls"
+			],
+			[
+				"crearob",
+				"src/classes/CrearObjetos_tst.cls"
+			],
+			[
+				"acuali",
+				"src/classes/ActualizarConsecutivos_tst.cls"
+			],
+			[
+				"actual",
+				"src/classes/ActualizarConsecutivos_tst.cls"
+			],
+			[
+				"obte",
+				"src/classes/ObtencionEstadosCuenta_tst.cls"
+			],
+			[
+				"asignacion",
+				"src/classes/GeneradorAsignacion_cls.cls"
+			],
+			[
+				"tipifica",
+				"src/classes/CrearTipificacion_ctr.cls"
+			],
+			[
+				"calculofech",
+				"src/classes/CalculoFechaAmpliacionProgramada_tst.cls"
+			],
+			[
+				"campscas",
+				"src/triggers/CamposCasos_tgr.trigger"
+			],
+			[
+				"aux",
+				"src/classes/CasosAuxiliar_cls.cls"
+			],
+			[
+				"auxi",
+				"src/classes/CasosAuxiliar_cls.cls"
+			],
+			[
+				"acteve",
+				"src/classes/ActualizarEventosClave_cls.cls"
+			],
+			[
+				"tipi",
+				"src/classes/CrearTipificacion_ctr.cls"
+			],
+			[
+				"genera",
+				"src/classes/GeneradorAsignacion_cls.cls"
+			],
+			[
+				"crear",
+				"src/pages/CrearProcesoJuridico_pag.page"
+			],
+			[
+				"crearpro",
+				"src/classes/CrearProcesoJuridico_ctr.cls"
+			],
+			[
+				"crearproce",
+				"src/pages/CrearProcesoJuridico_pag.page"
+			],
+			[
+				"obtencionestadoscuenta_ctr.cls",
+				"src/classes/ObtencionEstadosCuenta_ctr.cls"
+			],
+			[
+				"obtencioncupocredito_v2_ctr.cls",
+				"src/classes/ObtencionCupoCredito_v2_ctr.cls"
+			],
+			[
+				"estadocuentaexcel_ctr.cls",
+				"src/classes/EstadoCuentaExcel_Ctr.cls"
+			],
+			[
+				"cupocredito_ctr.cls",
+				"src/classes/CupoCredito_Ctr.cls"
+			],
+			[
+				"restringi",
+				"src/triggers/RestringirBorradoContentDocument_trg.trigger"
+			],
+			[
+				"ca",
+				"src/classes/CasosAuxiliar_tst.cls"
+			],
+			[
+				"casosa",
+				"src/classes/CasosAuxiliar_cls.cls"
+			],
+			[
+				"conver",
+				"src/classes/ConversorObjetoSAPaXML_cls.cls"
+			],
+			[
+				"conversor",
+				"src/classes/ConversorObjetoSAPaXML_cls.cls-meta.xml"
+			],
+			[
+				"ajustes",
+				"src/classes/AjustesMasivos_ctr.cls"
+			],
+			[
+				"masiv",
+				"src/pages/AjustesMasivos_pag.page"
+			],
+			[
+				"pageamas",
+				"src/pages/AjustesMasivos_pag.page"
+			],
+			[
+				"captu",
+				"src/classes/CapturaPedidoCtr.cls"
+			],
+			[
+				"masi",
+				"src/pages/AjustesMasivos_pag.page"
+			],
+			[
+				"masivpa",
+				"src/pages/AjustesMasivos_pag.page"
+			],
+			[
+				"tst",
+				"/C/Users/Avanxo Colombia/workspace/Ecopetrol Developer 2012-08-13/src/classes/CasosAuxiliar_tst.cls"
+			],
+			[
+				"user_",
+				"/C/Users/Avanxo Colombia/workspace/Ecopetrol Developer 2012-08-13/src/classes/validacionesCasoPadreCerrado_ctr.cls"
+			],
+			[
+				"",
+				"/C/Users/Avanxo/Downloads/apex (3).log"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Avanxo/ST2Workspace/ECP 2013-03-18/ECP 2013-03-18.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true
+}
