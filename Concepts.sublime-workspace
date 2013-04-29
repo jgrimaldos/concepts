@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"bo",
+				"bootstrap"
+			],
+			[
 				"dias",
 				"diasHabilesAmpliacion"
 			],
@@ -404,18 +408,26 @@
 	"buffers":
 	[
 		{
-			"file": "Concepts.sublime-project",
+			"file": "foundation/index.html",
 			"settings":
 			{
-				"buffer_size": 85,
+				"buffer_size": 4301,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "Concepts.sublime-workspace",
+			"file": "foundation/test1.html",
 			"settings":
 			{
-				"buffer_size": 34424,
+				"buffer_size": 5068,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Avanxo/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 13192,
 				"line_ending": "Unix"
 			}
 		}
@@ -426,6 +438,138 @@
 		"height": 375.0,
 		"selected_items":
 		[
+			[
+				"vi",
+				"View In Browser"
+			],
+			[
+				"vir",
+				"View In Browser"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"inder",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indere",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Lorem	",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lps",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"l",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"inde",
+				"Auto indent"
+			],
+			[
+				"Lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"ti",
+				"TidyHTML"
+			],
+			[
+				"snipp lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"inent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indenre",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ty",
+				"TidyHTML"
+			],
+			[
+				"inden",
+				"Auto indent"
+			],
+			[
+				"tid",
+				"TidyHTML"
+			],
+			[
+				"t",
+				"TidyHTML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"html",
+				"TidyHTML"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
 			[
 				"add",
 				"Git: Add Current File"
@@ -489,22 +633,6 @@
 			[
 				"inre",
 				"Indentation: Reindent Lines"
-			],
-			[
-				"rein",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"reind",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"inde",
-				"Auto indent"
-			],
-			[
-				"indent",
-				"Auto indent"
 			],
 			[
 				"selecon",
@@ -599,10 +727,6 @@
 				"Tag: Lint Selection or Document"
 			],
 			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
 				"SYNTA JA",
 				"Set Syntax: JavaScript"
 			],
@@ -672,10 +796,6 @@
 			],
 			[
 				"pack ins ",
-				"Package Control: Install Package"
-			],
-			[
-				"instal",
 				"Package Control: Install Package"
 			],
 			[
@@ -829,113 +949,9 @@
 			[
 				"ba",
 				"StringEncode: Base64 Encode"
-			],
-			[
-				"di",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"tag",
-				"Bracket Highlighter: Select Tag"
-			],
-			[
-				"match",
-				"Bracket Highlighter: Match Brackets"
-			],
-			[
-				"matc",
-				"Bracket Highlighter: Match Brackets"
-			],
-			[
-				"de ",
-				"StringEncode: Base64 Decode"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"p",
-				"Package Control: Install Package"
-			],
-			[
-				"Package Control: remo",
-				"Package Control: Remove Package"
-			],
-			[
-				"mar",
-				"Bracket Highlighter: Match Brackets"
-			],
-			[
-				"selec",
-				"Bracketeer: Select Inside Braces"
-			],
-			[
-				"selc",
-				"Bracket Highlighter: Select Bracket Content"
-			],
-			[
-				"sele",
-				"Bracketeer: Select Inside Braces"
-			],
-			[
-				"select in",
-				"Bracketeer: Select Inside Braces"
-			],
-			[
-				"sort",
-				"Sort Lines"
-			],
-			[
-				"brack",
-				"Bracket Highlighter: Select Bracket Content"
-			],
-			[
-				"pac",
-				"Package Control: List Packages"
-			],
-			[
-				"pa",
-				"Package Control: Install Package"
-			],
-			[
-				"b",
-				"Toggle Block Comment"
-			],
-			[
-				"bl",
-				"Toggle Block Comment"
-			],
-			[
-				"blk",
-				"Toggle Block Comment"
-			],
-			[
-				"togl",
-				"Toggle Block Comment"
-			],
-			[
-				"comment",
-				"Toggle Block Comment"
-			],
-			[
-				"comme",
-				"Toggle Block Comment"
-			],
-			[
-				"hi",
-				"WordHighlight: Toggle Enabled"
-			],
-			[
-				"eclips",
-				"Eclipse: Format Java"
-			],
-			[
-				"packac",
-				"Package Control: Install Package"
 			]
 		],
-		"width": 450.0
+		"width": 522.0
 	},
 	"console":
 	{
@@ -952,6 +968,11 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Avanxo/AppData/Roaming/Sublime Text 2/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/Avanxo/AppData/Roaming/Sublime Text 2/Packages/Browser Refresh/Default (Windows).sublime-keymap",
+		"/C/Users/Avanxo/Documents/GitHub/concepts/Concepts.sublime-project",
+		"/C/Users/Avanxo/Documents/GitHub/concepts/Concepts.sublime-workspace",
+		"/C/Users/Avanxo/Documents/GitHub/concepts/test2.html",
 		"/C/Users/Avanxo/Documents/GitHub/concepts/TEST.txt",
 		"/C/Users/Avanxo/Documents/GitHub/concepts/COMMIT_EDITMSG.COMMIT_EDITMSG",
 		"/C/Users/Avanxo/ST2Workspace/SER-D-20130403/src/triggers/ActualizacionUltimaFechaAmpliacion_tgr.trigger",
@@ -1074,12 +1095,7 @@
 		"/C/Users/Avanxo/Downloads/apex (14).log",
 		"/C/Users/Avanxo/Downloads/apex (11).log",
 		"/C/Users/Avanxo/Downloads/apex (12).log",
-		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Full 2012-12-12/src/classes/IndicadoresOportunidadEficacia_ctr.cls",
-		"/C/Users/Avanxo/Downloads/apex (13).log",
-		"/C/Users/Avanxo/Desktop/Trama.xml",
-		"/C/Users/Avanxo/Downloads/apex (1).log",
-		"/C/Users/Avanxo/Downloads/apex (2).log",
-		"/C/Users/Avanxo/Downloads/apex (3).log"
+		"/C/Users/Avanxo Colombia/workspace/Ecopetrol Full 2012-12-12/src/classes/IndicadoresOportunidadEficacia_ctr.cls"
 	],
 	"find":
 	{
@@ -1103,6 +1119,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Admin User\\n",
+			"Usuario Soporte CRM\\n",
+			"Marcela Ortiz\\n",
+			"(Cola\\:.*$)",
+			"\\|",
+			"|",
+			"^.*DEBUG",
 			"ProcesaBloqueos",
 			"cumplimiento",
 			"ConteoDiasHabiles",
@@ -1223,21 +1246,19 @@
 			"\\t",
 			"^",
 			"\\n",
-			"\\t",
-			"^",
-			"\\n",
-			"^",
-			"$",
-			"\\n",
-			"\\t+",
-			"\\t."
+			"\\t"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"",
+			"\\n\\1\\n",
+			"\\1\\n",
+			"%1\\n",
+			"",
 			"\\n",
 			"/",
 			",\\n",
@@ -1360,12 +1381,7 @@
 			"$0",
 			"$1",
 			"\\0",
-			"\\1",
-			"$0,$0",
-			"$0",
-			"$1",
-			"%1",
-			",\\n"
+			"\\1"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -1376,22 +1392,23 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "Concepts.sublime-project",
+					"file": "foundation/index.html",
 					"settings":
 					{
-						"buffer_size": 85,
+						"buffer_size": 4301,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1237,
+								1237
 							]
 						],
 						"settings":
@@ -1486,6 +1503,7 @@
 							"gjslint_options":
 							[
 							],
+							"is_xml": false,
 							"javascript_linter": "jshint",
 							"jshint_options":
 							{
@@ -1529,7 +1547,7 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1539,22 +1557,186 @@
 				},
 				{
 					"buffer": 1,
-					"file": "Concepts.sublime-workspace",
+					"file": "foundation/test1.html",
 					"settings":
 					{
-						"buffer_size": 34424,
+						"buffer_size": 5068,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								420,
-								420
+								2090,
+								2090
 							]
 						],
 						"settings":
 						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:/Program Files/nodejs/node.exe",
+								"javascript": "C:/Program Files/nodejs/node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 191.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Avanxo/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 13192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								719,
+								719
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
 							"annotations":
 							[
 								"TODO",
@@ -1688,8 +1870,9 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1737,7 +1920,7 @@
 	},
 	"output.exec":
 	{
-		"height": 102.0
+		"height": 80.0
 	},
 	"output.git":
 	{
